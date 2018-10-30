@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "P:/Documents/gravity/main.cpp" "P:/Documents/gravity/cmake-build-debug/CMakeFiles/gravity.dir/main.cpp.obj"
-  "P:/Documents/gravity/particle.cpp" "P:/Documents/gravity/cmake-build-debug/CMakeFiles/gravity.dir/particle.cpp.obj"
+  "/cygdrive/d/Documents/gravity/main.cpp" "/cygdrive/d/Documents/gravity/cmake-build-debug/CMakeFiles/gravity.dir/main.cpp.o"
+  "/cygdrive/d/Documents/gravity/particle.cpp" "/cygdrive/d/Documents/gravity/cmake-build-debug/CMakeFiles/gravity.dir/particle.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "MSVC")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

@@ -1,10 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/gravity.dir/main.cpp.obj"
-  "CMakeFiles/gravity.dir/particle.cpp.obj"
+  "CMakeFiles/gravity.dir/main.cpp.o"
+  "CMakeFiles/gravity.dir/particle.cpp.o"
   "gravity.pdb"
   "gravity.exe"
-  "gravity.exe.manifest"
-  "gravity.lib"
+  "libgravity.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

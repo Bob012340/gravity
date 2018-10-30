@@ -1,3 +1,4 @@
 nbody_data/
 cmake-build-debug/
+.idea
 CMakeList.txt

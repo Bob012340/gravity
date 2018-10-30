@@ -1,1 +1,3 @@
 nbody_data/
+cmake-build-debug/
+CMakeList.txt

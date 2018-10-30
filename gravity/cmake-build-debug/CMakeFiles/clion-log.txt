@@ -1,0 +1,4 @@
+C:\Users\Luke\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\182.4892.24\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" P:\Documents\gravity
+-- Configuring done
+-- Generating done
+-- Build files have been written to: P:/Documents/gravity/cmake-build-debug

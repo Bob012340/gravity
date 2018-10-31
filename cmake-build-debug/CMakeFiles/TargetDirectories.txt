@@ -1,3 +1,0 @@
-/cygdrive/d/Documents/gravity/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/d/Documents/gravity/cmake-build-debug/CMakeFiles/gravity.dir
-/cygdrive/d/Documents/gravity/cmake-build-debug/CMakeFiles/edit_cache.dir
